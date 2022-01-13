@@ -1,0 +1,48 @@
+service: ${env:SERVICE_NAME}
+useDotenv: true
+
+provider:
+  name: aws
+  runtime: nodejs14.x
+  profile: ${env:PROFILE}
+  stage: dev
+  region: eu-west-1
+
+plugins:
+  - serverless-webpack
+
+package:
+  individually: true
+
+functions:
+  getPopularShows:
+    handler: lambdas/endpoints/getPopularShows.handler
+    events:
+      - http:
+          path: shows/popular
+          method: GET
+          cors: true
+
+  getShowLibrary:
+    handler: lambdas/endpoints/getShowLibrary.handler
+    events:
+      - http:
+          path: shows/library
+          method: GET
+          cors: true
+
+  getShowById:
+    handler: lambdas/endpoints/getShowById.handler
+    events:
+      - http:
+          path: shows/{showId}
+          method: GET
+          cors: true
+
+  getShows:
+    handler: lambdas/endpoints/getShows.handler
+    events:
+      - http:
+          path: shows
+          method: GET
+          cors: true

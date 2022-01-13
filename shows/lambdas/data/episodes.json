@@ -1,0 +1,185 @@
+[
+ {
+    "id": "1",
+    "verified": true,
+    "title": "Record classix",
+    "headlines": [
+     {
+       "title": "Lorem ipsum dolor sit amet",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+     },
+     {
+       "title": "Excepteur sint obcaecat cupiditat non proident",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+     }
+    ],
+    "latest": [
+      {
+        "date": "2021-07-09T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-07-09.mp3"
+      },
+      {
+        "date": "2021-08-06T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-08-06.mp3"
+      },
+      {
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-09-10.mp3"
+      }
+    ],
+    "premium": [
+      {
+        "date": "2021-10-15T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-10-15.mp3"
+      },
+      {
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-12-24.mp3"
+      },
+      {
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-09-10.mp3"
+      }
+    ],
+    "video": {
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://www.youtube.com/watch?v=eX2qFMC8cFo"
+    }
+  },
+  {
+    "id": "2",
+    "verified": true,
+    "title": "Lady Walks",
+    "headlines": [
+     {
+       "title": "Lorem ipsum dolor sit amet",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+     },
+     {
+       "title": "Excepteur sint obcaecat cupiditat non proident",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+     }
+    ],
+    "latest": [
+      {
+        "date": "2018-12-12T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2018-12-12.mp3"
+      },
+      {
+        "date": "2019-01-23T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2019-01-23.mp3"
+      },
+      {
+        "date": "2020-05-29T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2020-05-29.mp3"
+      }
+    ],
+    "premium": [
+      {
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-24.mp3"
+      },
+      {
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-12-24.mp3"
+      },
+      {
+        "date": "2021-12-31T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-31.mp3"
+      }
+    ],
+    "video": {
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://www.youtube.com/watch?v=eX2qFMC8cFo"
+    }
+  },
+  {
+    "id": "3",
+    "verified": false,
+    "title": "Single man show",
+    "headlines": [
+     {
+       "title": "Lorem ipsum dolor sit amet",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. "
+     },
+     {
+       "title": "Excepteur sint obcaecat cupiditat non proident",
+       "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur."
+     }
+    ],
+    "latest": [
+      {
+        "date": "2018-12-12T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2018-12-12.mp3"
+      },
+      {
+        "date": "2019-01-23T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2019-01-23.mp3"
+      },
+      {
+        "date": "2020-05-29T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2020-05-29.mp3"
+      }
+    ],
+    "premium": [
+      {
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-24.mp3"
+      },
+      {
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-12-24.mp3"
+      },
+      {
+        "date": "2021-12-31T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-31.mp3"
+      }
+    ],
+    "video": {
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://www.youtube.com/watch?v=eX2qFMC8cFo"
+    }
+  }
+]

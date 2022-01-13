@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "verified": true,
+    "title": "Quickly Kevin, will he score?",
+    "category": ["podcast", "humor"],
+    "description": "Weekly podcast of popular music",
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+  },
+  {
+    "id": "2",
+    "verified": true,
+    "title": "Crazy Anneta, is she still alive?",
+    "category": ["podcast", "humor", "psyhology"],
+    "description": "The music of biggest clubs in the world",
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg"
+  },
+  {
+    "id": "3",
+    "verified": false,
+    "title": "Single man show",
+    "category": ["music", "hip-hop", "rap"],
+    "description": "The music of biggest clubs in the world",
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg"
+  }
+]
