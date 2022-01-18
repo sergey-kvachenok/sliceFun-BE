@@ -5,7 +5,9 @@
     "title": "Record classix",
     "category": ["music", "pop", "mix"],
     "description": "Weekly podcast of popular music",
-    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg",
+    "date": "2021-08-06T14:00:36.124Z",
+    "mainImage": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/202444_1393521884.jpg"
   },
   {
     "id": "2",
@@ -13,7 +15,9 @@
     "title": "Lady Walks",
     "category": ["music", "hip-hop", "r&b", "mix"],
     "description": "The music of biggest clubs in the world",
-    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg"
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg",
+    "date": "2020-03-23T14:00:36.124Z",
+    "mainImage": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/202444_1393521884.jpg"
   },
   {
     "id": "3",
@@ -21,6 +25,8 @@
     "title": "Single man show",
     "category": ["music", "hip-hop", "rap"],
     "description": "The music of biggest clubs in the world",
-    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg"
+    "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lady-walks.jpeg",
+    "date": "2019-07-01T14:00:36.124Z",
+    "mainImage": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/202444_1393521884.jpg"
   }
 ]

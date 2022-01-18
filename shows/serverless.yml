@@ -30,6 +30,10 @@ functions:
           path: shows/library
           method: GET
           cors: true
+          request:
+              parameters:
+                querystrings:
+                  category: true
 
   getShowById:
     handler: lambdas/endpoints/getShowById.handler
@@ -46,3 +50,7 @@ functions:
           path: shows
           method: GET
           cors: true
+          request:
+              parameters:
+                querystrings:
+                  search: false
