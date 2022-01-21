@@ -6,7 +6,7 @@ provider:
   runtime: nodejs14.x
   profile: ${env:PROFILE}
   stage: dev
-  region: eu-west-1
+  region: ${env:REGION}
 
 plugins:
   - serverless-webpack

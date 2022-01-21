@@ -257,5 +257,177 @@
         "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
       }
     ]
+  },
+  {
+    "id": "4",
+    "verified": false,
+    "title": "Single man show",
+    "mainImage": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/202444_1393521884.jpg",
+    "headlines": [
+      {
+        "title": "Lorem ipsum dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "title": "Excepteur sint obcaecat cupiditat non proident",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "latest": [
+      {
+        "id": "115",
+        "date": "2018-12-12T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2018-12-12.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "116",
+        "date": "2019-01-23T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2019-01-23.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "117",
+        "date": "2020-05-29T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2020-05-29.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "premium": [
+      {
+        "id": "118",
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-24.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "119",
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-12-24.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "120",
+        "date": "2021-12-31T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-31.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "video": [
+      {
+        "id": "121",
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://www.youtube.com/watch?v=eX2qFMC8cFo",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "verified": false,
+    "title": "Single man show",
+    "mainImage": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/202444_1393521884.jpg",
+    "headlines": [
+      {
+        "title": "Lorem ipsum dolor sit amet",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "title": "Excepteur sint obcaecat cupiditat non proident",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "latest": [
+      {
+        "id": "115",
+        "date": "2018-12-12T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2018-12-12.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "116",
+        "date": "2019-01-23T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2019-01-23.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "117",
+        "date": "2020-05-29T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2020-05-29.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "premium": [
+      {
+        "id": "118",
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 1",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-24.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "119",
+        "date": "2021-12-24T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/clssx_-_rc_2021-12-24.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      },
+      {
+        "id": "120",
+        "date": "2021-12-31T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "extendedDescription": "Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/lady-walks/lw_-_rc_2021-12-31.mp3",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ],
+    "video": [
+      {
+        "id": "121",
+        "date": "2021-09-10T14:00:36.124Z",
+        "title": "Episod 2",
+        "description": "Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+        "source": "https://www.youtube.com/watch?v=eX2qFMC8cFo",
+        "image": "https://slice-fun-podcasts.s3.eu-west-1.amazonaws.com/record-classix/record-classix.jpeg"
+      }
+    ]
   }
 ]
